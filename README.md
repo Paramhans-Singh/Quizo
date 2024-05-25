@@ -12,7 +12,7 @@ Quizo is an engaging online quiz application built with ReactJS. Designed to mak
 - **Responsive Design**: Access the app seamlessly on any device, including desktops, tablets, and smartphones.
 
 ## Quizo App Preview 
-
+https://github.com/Paramhans-Singh/Quizo/assets/101575816/dd522dd2-9c75-4d62-88bd-0a28ceb83023
 
 ## Usage
 
